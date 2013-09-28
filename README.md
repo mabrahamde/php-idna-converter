@@ -16,7 +16,7 @@ Add the package to your `composer.json` file:
 
     {
       "require": {
-        "mabrahamde/php-idna-converter": "dev-master",
+        "mabrahamde/idna-converter": "dev-master",
       },
     }
 
