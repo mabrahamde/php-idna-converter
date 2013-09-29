@@ -2,9 +2,9 @@
 
 **mabrahamde/php-idna-converter** is a fork of [phlyLabs' pure PHP IDNA Converter](http://phlymail.com/en/downloads/idna-convert.html). It converts  internationalized domain names between UTF-8 and ASCII (punycode) notation.
 
-Unlike the original **mabrahamde/php-idna-converter** is available on [packagist.org](packagist.org).
+Unlike the original **mabrahamde/php-idna-converter** is available on [packagist.org](http://packagist.org).
 
-[Visit author's website](mabraham.de)
+[Visit author's website](http://mabraham.de)
 
 ## Installation
 
@@ -44,4 +44,4 @@ The following example describes basic usage.
 
 Do you have any questions or suggestions? Feel free to contact me at `dev ( at ) mabraham.de`.
 
-[Visit author's website](mabraham.de)
+[Visit author's website](http://mabraham.de)
