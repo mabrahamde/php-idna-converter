@@ -2,7 +2,7 @@
     "name": "mabrahamde/idna-converter",
     "type": "library",
     "description": "Converts domain names between UTF-8 and ASCII (punycode) notation. This is a fork of phlyLabs' pure PHP IDNA Converter",
-    "keywords": ["domain","idn","idna","encode"],
+    "keywords": ["domain","idn","idna","encode","lib"],
     "license": "LGPL",
     "authors": [
         {
@@ -16,6 +16,6 @@
         "php": ">=5.0.0"
     },
     "autoload": {
-        "classmap": ["src/idna_convert.class.php", "src/uctc.php"]
+        "classmap": ["src/phlylabs/idna_convert.class.php", "src/phlylabs/uctc.php"]
     }
 }
