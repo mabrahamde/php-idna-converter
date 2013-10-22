@@ -4,6 +4,8 @@
 
 Unlike the original **mabrahamde/php-idna-converter** is available on [packagist.org](http://packagist.org).
 
+If you have installed PHP >= 5.3, PECL intl >= 1.0.2, PECL idn >= 0.1. You can rely on the PHP [IDN functions](http://www.php.net/manual/en/ref.intl.idn.php).
+
 [Visit author's website](http://mabraham.de)
 
 ## Installation
