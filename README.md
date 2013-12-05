@@ -34,7 +34,7 @@ The following example describes basic usage.
 
 	require_once('vendor/autoload.php');
 
-	$idn = new idna_convert(array('idn_version' => 2008));
+	$idn = new \idna_convert(array('idn_version' => 2008));
 
 	echo $idn->encode('lübeck.de'); // prints 'xn--lbeck-kva.de'
 
